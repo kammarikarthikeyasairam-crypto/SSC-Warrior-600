@@ -1,0 +1,6 @@
+{
+  "name": "SSC Warrior 600/600",
+  "description": "An AI-powered academic companion and student operating system designed specifically for Telangana SSC (Class 10) students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
